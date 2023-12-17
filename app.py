@@ -36,4 +36,5 @@ f1 = front_searcher(front_name1)
 f2 = front_searcher(front_name2)
 
 # Output the identified weather fronts
-print(f1 + ' - ' + f2)
+print(f1)
+print(f2)

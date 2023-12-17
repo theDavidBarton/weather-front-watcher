@@ -7,7 +7,9 @@ docker build -t thedavidbarton/weather-front-watcher .
 docker run -d thedavidbarton/weather-front-watcher
 ```
 
-![weather_screenshot](weather_screenshot.jpg)
+![weather_screenshot](weather_screenshot_cold.jpg)
+
+![weather_screenshot](weather_screenshot_warm.jpg)
 
 # License
 
