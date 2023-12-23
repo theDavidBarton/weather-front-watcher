@@ -18,7 +18,7 @@ def front_searcher(front_name):
         return 'hidegfront 🥶'
     elif 'melegfront' in front_name:
         return 'melegfront 🥵'
-    elif 'kettősfront' in front_name:
+    elif 'kettősfront' in front_name or 'kettős front' in front_name:
         return 'kettősfront 🤕'
     else:
         return 'nincs front 😊'
